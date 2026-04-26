@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5500,
+  "files.autoSave": "afterDelay",
+  "editor.wordWrap": "on",
+  "editor.minimap.enabled": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true
+  }
+}
