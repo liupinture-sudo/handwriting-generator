@@ -1,0 +1,16 @@
+1. 打开 VS Code 项目 handwriting-generator。
+2. 右侧 Codex 里先说：
+   请先阅读 CODEX_PROJECT_RULES.md 和 index.html。
+   本次只修改【功能名称】。
+   不要重写整站，不要删除 fonts，不要削弱 V6 效果。
+   修改前先告诉我计划，等我确认后再改。
+
+3. Codex 改完后，用 Live Server 测试 index.html。
+
+4. 测试没问题后，在终端输入：
+   git add .
+   git commit -m "更新网站功能"
+   git push origin main
+
+5. 去 Netlify 看部署是否 Published。
+6. 打开 Netlify 链接，Ctrl + F5 刷新测试。
